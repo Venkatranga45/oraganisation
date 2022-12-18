@@ -1,0 +1,9 @@
+{
+	"name": "lerandatafactory",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "a7bb7a99-1bdf-48b1-bc91-55650efbb49e",
+		"tenantId": "4bbc036a-1f23-43ad-8b9c-2c685ca0ee38"
+	}
+}

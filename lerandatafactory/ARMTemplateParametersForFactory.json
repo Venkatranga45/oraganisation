@@ -11,11 +11,23 @@
 		"AzureSqlDatabase2_connectionString": {
 			"value": ""
 		},
+		"AzureBlobStorage1_connectionString": {
+			"value": ""
+		},
+		"AzureDataLakeStorage1_accountKey": {
+			"value": ""
+		},
 		"RestService1_properties_typeProperties_url": {
 			"value": "https://dummy.restapiexample.com/"
 		},
 		"RestService2_properties_typeProperties_url": {
 			"value": "https://dummy.restapiexample.com/"
+		},
+		"RestParam_LS_properties_typeProperties_url": {
+			"value": "https://restcountries.com/v3.1/name"
+		},
+		"AzureDataLakeStorage1_properties_typeProperties_url": {
+			"value": "https://storageforadfprac.dfs.core.windows.net/"
 		}
 	}
 }

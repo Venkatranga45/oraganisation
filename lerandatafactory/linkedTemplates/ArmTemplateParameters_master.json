@@ -5,6 +5,18 @@
 		"factoryName": {
 			"value": "lerandatafactory"
 		},
+		"AzureSqlDatabase1_connectionString": {
+			"value": ""
+		},
+		"AzureSqlDatabase2_connectionString": {
+			"value": ""
+		},
+		"RestService1_properties_typeProperties_url": {
+			"value": "https://dummy.restapiexample.com/"
+		},
+		"RestService2_properties_typeProperties_url": {
+			"value": "https://dummy.restapiexample.com/"
+		},
 		"containerUri": {
 			"value": ""
 		},
